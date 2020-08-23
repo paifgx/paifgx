@@ -23,7 +23,10 @@ export default () => ({
     "webdev", "tech", 
     "mathematics", "research"
   ],
-  languages: ["php", "python", "javascript", "c", "c++", "c#"],
+  languages: [
+    "php", "python", "javascript", "java",
+    "c", "c++", "c#", "dart", "kotlin",
+  ],
   technologies: {
     frontEnd: {
       js: ["react", "angular", "vue"],
@@ -33,7 +36,7 @@ export default () => ({
       php: ["symfony", "laravel"],
       js: ["node", "express"],
       python: ["django", "flask"],
-      misc: ["bash", "systemd", "selinux"]
+      misc: ["flutter", "bash", "systemd", "selinux"]
     },
     machineLearning: ["tensorflow", "keras", "pytorch"],
     databases: ["mysql", "mariadb", "mongo", "postgres", "redis"],
