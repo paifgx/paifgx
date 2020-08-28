@@ -24,18 +24,22 @@ export default () => ({
   ],
   technologies: {
     frontEnd: {
-      js: ["react", "angular", "vue"],
-      css: ["materialize", "bulma", "bootstrap"]
+      js: ["react", "angular", "vue", "jQuery"],
+      css: ["materialize", "bulma", "bootstrap"],
+      misc: []
     },
     backEnd: {
       php: ["symfony", "laravel"],
       js: ["node", "express"],
       python: ["django", "flask"],
-      misc: ["flutter", "bash", "systemd", "selinux"]
     },
     machineLearning: ["tensorflow", "keras", "pytorch"],
     databases: ["mysql", "mariadb", "mongo", "postgres", "redis"],
     cms: ["typo3", "wordpress"],
+    misc: [
+      "flutter", "bash", "systemd", "selinux", 
+      "docker", "git", "Scrum", "GraphQL"
+    ],
   },
 });
 ```
