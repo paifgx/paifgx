@@ -15,26 +15,27 @@ export default () => ({
   pronouns: "He" | "Him",
   homepage: "https://patrikgarten.de/",
   askMeAbout: [
-    "webdev", "tech", 
-    "mathematics", "research"
+    "dev", "webdev", "tech", 
+    "mathematics", "research",
+    "artificial intelligence"
   ],
   languages: [
-    "php", "python", "javascript", "java",
-    "c", "c++", "c#", "dart", "kotlin",
+    "php", "python", "typescript", "javascript", "kotlin",
+    "dart", "c", "c++", "c#", "java",
   ],
   technologies: {
     frontEnd: {
-      js: ["react", "angular", "vue", "jQuery"],
-      css: ["materialize", "bulma", "bootstrap"],
+      js/ts: ["vue", "jQuery", "react", "angular"],
+      css: ["bootstrap", "foundation", "materialize", "bulma"],
       misc: []
     },
     backEnd: {
       php: ["symfony", "laravel"],
-      js: ["node", "express"],
+      js/ts: ["node", "express", "nestjs"],
       python: ["django", "flask"],
     },
     machineLearning: ["tensorflow", "keras", "pytorch"],
-    databases: ["mysql", "mariadb", "mongo", "postgres", "redis"],
+    databases: ["mariadb", "mongo", "postgres", "mysql", "redis"],
     cms: ["typo3", "wordpress"],
     misc: [
       "flutter", "bash", "systemd", "selinux", 
@@ -51,15 +52,4 @@ export default () => ({
 
 <!--
 **paifgx/paifgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
