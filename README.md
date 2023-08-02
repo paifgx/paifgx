@@ -48,6 +48,5 @@
 <a href="https://garten.dev"><img src="https://img.shields.io/badge/-garten.dev-1769FF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/paifgx"><img src="https://img.shields.io/badge/-Patrik%20Garten-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:info@patrikgarten.de"><img src="https://img.shields.io/badge/-info@patrikgarten.de-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/paifgx"><img src="https://img.shields.io/badge/-@paifgx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitch.tv/paifgx"><img src="https://img.shields.io/badge/-@paifgx-3423A6?style=flat&logo=Twitch&logoColor=white"/></a>
+<a href="https://instagram.com/garten.dev"><img src="https://img.shields.io/badge/-@garten.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
