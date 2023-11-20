@@ -4,10 +4,10 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 👨‍💻 &nbsp;I'm currently working as a freelancing software engineer.\
-🎓 &nbsp;I also studying Computer Science at the University of Applied Scienes and Arts Dortmund.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🎓 &nbsp;I also studying Computer Science at the IU  International University of Applied Sciences.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science and Software Architecture.\
 💬 &nbsp;Feel free to reach out to me for consulting, volunteering and projects, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at info@patrikgarten.de! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at info@garten.dev! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
