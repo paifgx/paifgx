@@ -34,15 +34,6 @@
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-05122A?style=flat&logo=jetbrains&logoColor=2C2255)\
 and much more [...]
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/paifgx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paifgx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paifgx&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
 ### 🤝🏻 &nbsp;Get In Touch
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's build something amazing together!
