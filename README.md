@@ -34,7 +34,7 @@ Keine Tools von der Stange – sondern Systeme mit Substanz.
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
 
-➡️ Vollständiger Stack hier: [techstack](https://github.com/paifgx/techstack/README.md)
+➡️ Vollständiger Stack hier: [techstack](https://github.com/paifgx/techstack.md)
 
 ---
 
