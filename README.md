@@ -23,27 +23,18 @@ Keine Tools von der Stange – sondern Systeme mit Substanz.
 ## Stack-Auszug
 
 <p>
-  <!-- Sprachen & Frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-
-  <!-- AI/ML Tools -->
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-F9A03C?style=flat-square&logo=huggingface&logoColor=white"/>
-
-  <!-- Daten & Backend -->
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-FF6B00?style=flat-square&logo=data&logoColor=white"/>
-
-  <!-- Automatisierung -->
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC72B?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/qdrant-FF4F64?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EC5C29?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
 
-➡️ Vollständiger Stack hier: [techstack](https://github.com/paifgx/techstack)
+➡️ Vollständiger Stack hier: [techstack](https://github.com/paifgx/techstack/README.md)
 
 ---
 
