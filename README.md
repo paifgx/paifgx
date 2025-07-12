@@ -1,5 +1,5 @@
 <h1 align="center">Hi, ich bin Patrik</h1>
-<p align="center">AI Solution Architect · Systeme, die Verantwortung übernehmen</p>
+<p align="center">AI Solution Architect für Systeme, die Verantwortung übernehmen</p>
 
 <p align="center">
   <a href="https://www.garten.ai"><img src="https://img.shields.io/badge/Website-garten.ai-blue?style=flat-square&logo=google-chrome"></a>
