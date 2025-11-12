@@ -138,4 +138,4 @@ Ich entwickle Systeme, die entlasten, mitdenken und bleiben.
 ---
 
 > Du suchst jemanden, der AI nicht nur einsetzt, sondern versteht?  
-> Lass uns sprechen: [Strategiegespräch buchen](https://app.reclaim.ai/m/gartendev/strategie) | [info@garten.ai](mailto:info@garten.ai) | [www.garten.ai](https://www.garten.ai) | [LinkedIn](https://linkedin.com/in/paifgx)
+> Lass uns sprechen: [Strategiegespräch buchen](https://app.reclaim.ai/m/gartenai/strategie) | [info@garten.ai](mailto:info@garten.ai) | [www.garten.ai](https://www.garten.ai) | [LinkedIn](https://linkedin.com/in/paifgx)
